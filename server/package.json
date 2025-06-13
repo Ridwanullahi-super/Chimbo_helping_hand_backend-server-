@@ -4,6 +4,7 @@
   "description": "Backend server for Chimbo Helping Hands NGO website",
   "main": "index.js",
   "scripts": {
+    "Build Command": "npm install",
     "start": "node index.js",
     "dev": "nodemon index.js",
     "setup": "node setup.js"
